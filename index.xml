@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sydney Kahmann on Sydney Kahmann</title>
-    <link>/</link>
+    <link>https://skahmann3.github.io/</link>
     <description>Recent content in Sydney Kahmann on Sydney Kahmann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,28 +12,28 @@
     
     <item>
       <title>R&amp;D, Attrition and Multiple Imputation in BRDIS</title>
-      <link>/talk/example/</link>
+      <link>https://skahmann3.github.io/talk/example/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>https://skahmann3.github.io/talk/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R&amp;D, Attrition and Multiple Imputation in BRDIS</title>
-      <link>/publication/brdis/</link>
+      <link>https://skahmann3.github.io/publication/brdis/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 -0700</pubDate>
       
-      <guid>/publication/brdis/</guid>
+      <guid>https://skahmann3.github.io/publication/brdis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhanced Data Exploration and Visualization Tool for Large Spatio-Temporal Climate Data</title>
-      <link>/publication/cmiviz/</link>
+      <link>https://skahmann3.github.io/publication/cmiviz/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cmiviz/</guid>
+      <guid>https://skahmann3.github.io/publication/cmiviz/</guid>
       <description></description>
     </item>
     
